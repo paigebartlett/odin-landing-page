@@ -30,7 +30,7 @@ body > div {
 .hero {
     background-color: rgb(1, 78, 1);
     color: white;
-    padding: 10px 100px;
+    padding: 50px 100px;
     display: flex;
     justify-content: space-between;
 }
