@@ -12,10 +12,17 @@ body > div {
     flex: 1;
 }
 
+/* first background color */
+
+.header,
+.hero,
+.footer {
+    background-color: rgb(1, 78, 1);
+}
+
 .header {
     display: flex;
     justify-content: space-between;
-    background-color: rgb(1, 78, 1);
     color: white;
     margin: 0px;
     padding: 10px 100px;
@@ -28,7 +35,6 @@ body > div {
 }
 
 .hero {
-    background-color: rgb(1, 78, 1);
     color: white;
     padding: 50px 100px;
     display: flex;
@@ -90,7 +96,6 @@ h2 {
 
 .footer {
     text-align: center;
-    background-color: rgb(1, 78, 1);
     color: white;
     padding: 25px;
     font-size: 11px;
