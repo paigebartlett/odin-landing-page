@@ -71,4 +71,11 @@ body > div {
 
 .sign-up-window {
     margin: 50px 100px;
+    padding: 25px 100px;
+    background-color: lime;
+}
+
+h2 {
+    margin: 0px;
+    padding: 0px;
 }
