@@ -7,9 +7,11 @@ body{
     background-color: rgb(1, 78, 1);
     color: white;
     margin: 0px;
+    padding: 10px 100px;
 }
 
 .header a{
     color: white;
     text-decoration: none;
+    padding: 10px;
 }
