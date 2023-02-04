@@ -73,6 +73,7 @@ body > div {
     margin: 50px 100px;
     padding: 25px 100px;
     background-color: lime;
+    display: flex;
 }
 
 h2 {
