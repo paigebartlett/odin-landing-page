@@ -1,6 +1,17 @@
 body{ 
     margin: 0px;
+    display: flex;
+    flex-direction: column;
 }
+
+.header,
+.footer {
+    flex: 0;
+}
+body > div {
+    flex: 1;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
