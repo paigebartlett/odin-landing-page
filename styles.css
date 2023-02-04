@@ -68,3 +68,7 @@ body > div {
 .attribution {
     text-align: right;
 }
+
+.sign-up-window {
+    margin: 50px 100px;
+}
