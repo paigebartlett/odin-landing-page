@@ -16,26 +16,25 @@ body > div {
 
 .header,
 .hero,
-.footer {
+.footer,
+.header a {
     background-color: rgb(1, 78, 1);
+    color: white;
 }
 
 .header {
     display: flex;
     justify-content: space-between;
-    color: white;
     margin: 0px;
     padding: 10px 100px;
 }
 
 .header a{
-    color: white;
     text-decoration: none;
     padding: 10px;
 }
 
 .hero {
-    color: white;
     padding: 50px 100px;
     display: flex;
     justify-content: space-between;
@@ -96,7 +95,6 @@ h2 {
 
 .footer {
     text-align: center;
-    color: white;
     padding: 25px;
     font-size: 11px;
 }
