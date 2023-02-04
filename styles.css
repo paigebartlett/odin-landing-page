@@ -15,3 +15,8 @@ body{
     text-decoration: none;
     padding: 10px;
 }
+
+.hero {
+    background-color: rgb(1, 78, 1);
+    color: white;
+}
