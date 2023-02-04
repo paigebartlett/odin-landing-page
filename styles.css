@@ -74,6 +74,12 @@ body > div {
     padding: 25px 100px;
     background-color: lime;
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sign-up-window text{
+    flex: 1;
 }
 
 h2 {
