@@ -30,4 +30,9 @@ body > div {
 .hero {
     background-color: rgb(1, 78, 1);
     color: white;
+    padding: 10px 100px;
+}
+
+.hero img {
+    width: 600px;
 }
