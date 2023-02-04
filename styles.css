@@ -43,3 +43,9 @@ body > div {
 .photo-lineup {
     display: flex;
 }
+
+.photo-lineup img {
+    width: 100px;
+    height: auto;
+    border: 10px solid grey;
+}
