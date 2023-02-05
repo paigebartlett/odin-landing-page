@@ -120,11 +120,12 @@ button {
 
 .testimonial {
     padding: 50px 25%;
-    background-color: rgb(255, 234, 198)
+    background-color: rgb(255, 234, 198);
 }
 
 .quote {
-    font-size: 20px;
+    font-size: 36px;
+    font-weight: lighter;
     font-style: italic;
 }
 
