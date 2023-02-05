@@ -107,6 +107,11 @@ h1 {
     text-align: center;
 }
 
+.photos-container h2 {
+    font-size: 36px;
+    font-weight: 900;
+}
+
 .photos-container > * {
     margin: 20px;
 }
