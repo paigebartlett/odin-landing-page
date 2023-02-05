@@ -56,10 +56,11 @@ button {
 }
 
 .header img {
-    max-width: 40px;
+    max-width: 35px;
     height: auto;
     filter: invert(100%);
-}
+    margin-left: 5px;
+} 
 
 .header .logo {
     flex-basis: 150px;
