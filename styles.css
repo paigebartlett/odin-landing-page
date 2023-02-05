@@ -43,6 +43,10 @@ h2 {
     padding: 0px;
 }
 
+p {
+    margin: 0px;
+}
+
 button {
     border: 1px solid white;
     border-radius: 5px;
@@ -93,7 +97,7 @@ h1 {
     margin: 0px;
 }
 
-p {
+p hero{
     margin: 0px;
     margin-bottom: 15px;
 }
