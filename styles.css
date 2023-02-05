@@ -17,6 +17,7 @@ button {
     border: 1px solid white;
     border-radius: 5px;
     color: white;
+    padding: 5px 20px;
 }
 
 /* first background color */
@@ -54,6 +55,10 @@ button {
 .hero img {
     width: 300px;
     height: auto;
+}
+
+.hero button {
+    border: none;
 }
 
 .photos-container {
