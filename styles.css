@@ -109,6 +109,8 @@ button {
     text-align: right;
 }
 
+/*sign-up section*/
+
 .sign-up-window {
     margin: 50px 100px;
     padding: 25px 100px;
@@ -116,8 +118,6 @@ button {
     align-items: center;
     justify-content: space-between;
 }
-
-/*sign-up section*/
 
 .sign-up-window text{
     flex: 1;
