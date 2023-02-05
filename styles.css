@@ -58,11 +58,6 @@ button {
     padding-bottom: 10px;
 }
 
-h1 {
-    font-size: 48px;
-    font-weight: 900;
-}
-
 .header img {
     max-width: 35px;
     height: auto;
@@ -86,6 +81,11 @@ h1 {
     padding-bottom: 50px;
     display: flex;
     justify-content: space-between;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
 }
 
 .hero img {
