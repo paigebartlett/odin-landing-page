@@ -86,6 +86,7 @@ button {
 .hero img {
     width: 300px;
     height: auto;
+    align-self: center;
 }
 
 .hero button {
