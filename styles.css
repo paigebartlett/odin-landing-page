@@ -28,6 +28,12 @@ button,
     color: white;
 }
 
+h2 {
+    margin: 0px;
+    padding: 0px;
+}
+
+
 button {
     border: 1px solid white;
     border-radius: 5px;
@@ -111,11 +117,6 @@ button {
 
 .sign-up-window text{
     flex: 1;
-}
-
-h2 {
-    margin: 0px;
-    padding: 0px;
 }
 
 .footer {
