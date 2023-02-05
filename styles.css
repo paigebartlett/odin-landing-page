@@ -109,7 +109,7 @@ button {
 .photo-lineup img {
     width: 95px;
     height: 95px;
-    border: 10px solid grey;
+    border: 3px solid rgb(1, 78, 1);
     border-radius: 15px;
     filter: grayscale(15%);
     padding: 5px;
