@@ -2,7 +2,7 @@ body{
     margin: 0px;
     display: flex;
     flex-direction: column;
-    font-family: 'Roboto',sans-serif;
+    font-family: 'Roboto',serif;
 }
 
 .header,
@@ -125,7 +125,7 @@ button {
 
 .quote {
     font-size: 36px;
-    font-weight: lighter;
+    font-weight: 300;
     font-style: italic;
 }
 
