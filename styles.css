@@ -33,7 +33,6 @@ h2 {
     padding: 0px;
 }
 
-
 button {
     border: 1px solid white;
     border-radius: 5px;
@@ -45,7 +44,6 @@ button {
 .header {
     display: flex;
     justify-content: space-between;
-    margin: 0px;
     padding: 10px 100px;
 }
 
