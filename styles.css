@@ -138,6 +138,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border-radius: 5px;
 }
 
 .sign-up-window text{
