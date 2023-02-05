@@ -28,6 +28,13 @@ button,
     color: white;
 }
 
+.header,
+.hero,
+.sign-up-container {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
 h2 {
     margin: 0px;
     padding: 0px;
@@ -44,7 +51,8 @@ button {
 .header {
     display: flex;
     justify-content: space-between;
-    padding: 10px 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .header a{
@@ -55,7 +63,8 @@ button {
 /*hero section*/
 
 .hero {
-    padding: 50px 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     display: flex;
     justify-content: space-between;
 }
@@ -112,7 +121,8 @@ button {
 /*sign-up section*/
 
 .sign-up-window {
-    margin: 50px 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     padding: 25px 100px;
     display: flex;
     align-items: center;
