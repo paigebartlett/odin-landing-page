@@ -77,6 +77,10 @@ button {
     text-align: center;
 }
 
+.photos-container > * {
+    margin: 20px;
+}
+
 .photo-lineup {
     display: flex;
     gap: 10px;
