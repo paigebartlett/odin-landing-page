@@ -22,8 +22,12 @@ body > div {
     color: white;
 }
 
-button {
+button, 
+.sign-up-window {
     background-color: lime;
+}
+
+button {
     border: 1px solid white;
     border-radius: 5px;
     color: white;
@@ -98,7 +102,6 @@ button {
 .sign-up-window {
     margin: 50px 100px;
     padding: 25px 100px;
-    background-color: lime;
     display: flex;
     align-items: center;
     justify-content: space-between;
