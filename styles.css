@@ -12,6 +12,13 @@ body > div {
     flex: 1;
 }
 
+button {
+    background-color: lime;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+}
+
 /* first background color */
 
 .header,
