@@ -58,6 +58,7 @@ button {
 .header img {
     max-width: 40px;
     height: auto;
+    filter: invert(100%);
 }
 
 .header .logo {
