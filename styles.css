@@ -68,6 +68,7 @@ button {
 
 .header .logo {
     flex-basis: 300px;
+    font-weight: 500;
 }
 
 .header a{
