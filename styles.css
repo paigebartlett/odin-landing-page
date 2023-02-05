@@ -107,11 +107,12 @@ button {
 }
 
 .photo-lineup img {
-    width: 100px;
-    height: 100px;
+    width: 95px;
+    height: 95px;
     border: 10px solid grey;
     border-radius: 15px;
     filter: grayscale(15%);
+    padding: 5px;
 }
 
 /*testimonial section */
