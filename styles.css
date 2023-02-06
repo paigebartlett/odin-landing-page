@@ -186,3 +186,22 @@ h1 {
     padding: 25px;
     font-size: 11px;
 }
+
+/* Photo credits page */
+
+.credits h1 {
+    align-content: center;
+}
+
+.credits {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(255, 238, 199);
+}
+
+.credits a,
+.credits h1 {
+    color:rgb(1, 78, 1)
+}
+
