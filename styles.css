@@ -116,6 +116,8 @@ h1 {
 
 .photos-container {
     text-align: center;
+    padding-top: 25px;
+    padding-bottom: 50px;
 }
 
 .photos-container h2 {
@@ -146,7 +148,7 @@ h1 {
 /*testimonial section */
 
 .testimonial {
-    padding: 50px 25%;
+    padding: 100px 25%;
     background-color: rgb(255, 234, 198);
 }
 
@@ -165,8 +167,8 @@ h1 {
 /*sign-up section*/
 
 .sign-up-window {
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
     padding: 25px 100px;
     display: flex;
     align-items: center;
